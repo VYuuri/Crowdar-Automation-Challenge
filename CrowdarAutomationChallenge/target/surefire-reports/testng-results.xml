@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="10" total="16" passed="5" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-27T01:38:27 ART" name="Pruebas Challenge Crowdar" finished-at="2023-03-27T01:39:09 ART" duration-ms="42294">
+    <groups>
+    </groups>
+    <test started-at="2023-03-27T01:38:27 ART" name="Pass y user vacios" finished-at="2023-03-27T01:39:09 ART" duration-ms="42294">
+      <class name="tests.CPAB05SacarItemDelCarrito">
+        <test-method is-config="true" signature="iniciarDriver()[pri:0, instance:tests.CPAB05SacarItemDelCarrito@595b007d]" started-at="2023-03-27T01:38:53 ART" name="iniciarDriver" finished-at="2023-03-27T01:38:55 ART" duration-ms="1618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iniciarDriver -->
+        <test-method signature="CPAB05SacarItemDelCarrito()[pri:0, instance:tests.CPAB05SacarItemDelCarrito@595b007d]" started-at="2023-03-27T01:38:55 ART" name="CPAB05SacarItemDelCarrito" finished-at="2023-03-27T01:39:09 ART" duration-ms="13890" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CPAB05SacarItemDelCarrito -->
+        <test-method is-config="true" signature="cerrarDriver()[pri:0, instance:tests.CPAB05SacarItemDelCarrito@595b007d]" started-at="2023-03-27T01:39:09 ART" name="cerrarDriver" finished-at="2023-03-27T01:39:09 ART" duration-ms="241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cerrarDriver -->
+      </class> <!-- tests.CPAB05SacarItemDelCarrito -->
+      <class name="tests.CPAB02PassYUserCorrectos">
+        <test-method is-config="true" signature="iniciarDriver()[pri:0, instance:tests.CPAB02PassYUserCorrectos@222545dc]" started-at="2023-03-27T01:38:31 ART" name="iniciarDriver" finished-at="2023-03-27T01:38:32 ART" duration-ms="1596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iniciarDriver -->
+        <test-method signature="CPAB02PassYUserCorrectos()[pri:0, instance:tests.CPAB02PassYUserCorrectos@222545dc]" started-at="2023-03-27T01:38:32 ART" name="CPAB02PassYUserCorrectos" finished-at="2023-03-27T01:38:34 ART" duration-ms="1312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CPAB02PassYUserCorrectos -->
+        <test-method is-config="true" signature="cerrarDriver()[pri:0, instance:tests.CPAB02PassYUserCorrectos@222545dc]" started-at="2023-03-27T01:38:34 ART" name="cerrarDriver" finished-at="2023-03-27T01:38:34 ART" duration-ms="226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cerrarDriver -->
+      </class> <!-- tests.CPAB02PassYUserCorrectos -->
+      <class name="tests.CPAB03UsuarioBloqueado">
+        <test-method is-config="true" signature="iniciarDriver()[pri:0, instance:tests.CPAB03UsuarioBloqueado@16293aa2]" started-at="2023-03-27T01:38:46 ART" name="iniciarDriver" finished-at="2023-03-27T01:38:48 ART" duration-ms="1670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iniciarDriver -->
+        <test-method signature="CPAB03UsuarioBloqueado()[pri:0, instance:tests.CPAB03UsuarioBloqueado@16293aa2]" started-at="2023-03-27T01:38:48 ART" name="CPAB03UsuarioBloqueado" finished-at="2023-03-27T01:38:49 ART" duration-ms="529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CPAB03UsuarioBloqueado -->
+        <test-method is-config="true" signature="cerrarDriver()[pri:0, instance:tests.CPAB03UsuarioBloqueado@16293aa2]" started-at="2023-03-27T01:38:49 ART" name="cerrarDriver" finished-at="2023-03-27T01:38:49 ART" duration-ms="203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cerrarDriver -->
+      </class> <!-- tests.CPAB03UsuarioBloqueado -->
+      <class name="tests.CPAB01PassYUserVacios">
+        <test-method is-config="true" signature="iniciarSuite()[pri:0, instance:tests.CPAB01PassYUserVacios@2a798d51]" started-at="2023-03-27T01:38:27 ART" name="iniciarSuite" finished-at="2023-03-27T01:38:27 ART" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iniciarSuite -->
+        <test-method is-config="true" signature="iniciarDriver()[pri:0, instance:tests.CPAB01PassYUserVacios@2a798d51]" started-at="2023-03-27T01:38:27 ART" name="iniciarDriver" finished-at="2023-03-27T01:38:29 ART" duration-ms="2659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iniciarDriver -->
+        <test-method signature="CPAB01PassYUserVacios()[pri:0, instance:tests.CPAB01PassYUserVacios@2a798d51]" started-at="2023-03-27T01:38:29 ART" name="CPAB01PassYUserVacios" finished-at="2023-03-27T01:38:31 ART" duration-ms="1148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CPAB01PassYUserVacios -->
+        <test-method is-config="true" signature="cerrarDriver()[pri:0, instance:tests.CPAB01PassYUserVacios@2a798d51]" started-at="2023-03-27T01:38:31 ART" name="cerrarDriver" finished-at="2023-03-27T01:38:31 ART" duration-ms="189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cerrarDriver -->
+        <test-method is-config="true" signature="cerrarSuite()[pri:0, instance:tests.CPAB01PassYUserVacios@2a798d51]" started-at="2023-03-27T01:39:09 ART" name="cerrarSuite" finished-at="2023-03-27T01:39:09 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cerrarSuite -->
+      </class> <!-- tests.CPAB01PassYUserVacios -->
+      <class name="tests.CPAB04AgregarItemAlCarrito">
+        <test-method is-config="true" signature="iniciarDriver()[pri:0, instance:tests.CPAB04AgregarItemAlCarrito@5158b42f]" started-at="2023-03-27T01:38:49 ART" name="iniciarDriver" finished-at="2023-03-27T01:38:51 ART" duration-ms="1795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iniciarDriver -->
+        <test-method signature="CPAB04AgregarItemAlCarrito()[pri:0, instance:tests.CPAB04AgregarItemAlCarrito@5158b42f]" started-at="2023-03-27T01:38:51 ART" name="CPAB04AgregarItemAlCarrito" finished-at="2023-03-27T01:38:53 ART" duration-ms="2588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CPAB04AgregarItemAlCarrito -->
+        <test-method is-config="true" signature="cerrarDriver()[pri:0, instance:tests.CPAB04AgregarItemAlCarrito@5158b42f]" started-at="2023-03-27T01:38:53 ART" name="cerrarDriver" finished-at="2023-03-27T01:38:53 ART" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cerrarDriver -->
+      </class> <!-- tests.CPAB04AgregarItemAlCarrito -->
+      <class name="tests.CPAB02PassYUserCorrectosFalloIntencional">
+        <test-method is-config="true" signature="iniciarDriver()[pri:0, instance:tests.CPAB02PassYUserCorrectosFalloIntencional@5c5eefef]" started-at="2023-03-27T01:38:34 ART" name="iniciarDriver" finished-at="2023-03-27T01:38:36 ART" duration-ms="1563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iniciarDriver -->
+        <test-method signature="CPAB02PassYUserCorrectosFalloIntencional()[pri:0, instance:tests.CPAB02PassYUserCorrectosFalloIntencional@5c5eefef]" started-at="2023-03-27T01:38:36 ART" name="CPAB02PassYUserCorrectosFalloIntencional" finished-at="2023-03-27T01:38:46 ART" duration-ms="10572" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"css selector","selector":"#react-burger-menu-btn"}
+  (Session info: chrome=111.0.5563.111)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.2', revision: '826dbfc730'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0d262fb6d6ae673c7d191c58c62cfd7b, findElement {using=css selector, value=#react-burger-menu-btn}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.111, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\Yuuri\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55698}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55698/devtoo..., se:cdpVersion: 111.0.5563.111, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0d262fb6d6ae673c7d191c58c62cfd7b]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#react-burger-menu-btn"}
+  (Session info: chrome=111.0.5563.111)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.2', revision: '826dbfc730'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '20'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0d262fb6d6ae673c7d191c58c62cfd7b, findElement {using=css selector, value=#react-burger-menu-btn}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.111, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\Yuuri\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55698}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55698/devtoo..., se:cdpVersion: 111.0.5563.111, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0d262fb6d6ae673c7d191c58c62cfd7b
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:193)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:183)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:158)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+at pageObjects.TiendaPage.desloguear(TiendaPage.java:34)
+at tests.CPAB02PassYUserCorrectosFalloIntencional.CPAB02PassYUserCorrectosFalloIntencional(CPAB02PassYUserCorrectosFalloIntencional.java:19)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CPAB02PassYUserCorrectosFalloIntencional -->
+        <test-method is-config="true" signature="cerrarDriver()[pri:0, instance:tests.CPAB02PassYUserCorrectosFalloIntencional@5c5eefef]" started-at="2023-03-27T01:38:46 ART" name="cerrarDriver" finished-at="2023-03-27T01:38:46 ART" duration-ms="262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cerrarDriver -->
+      </class> <!-- tests.CPAB02PassYUserCorrectosFalloIntencional -->
+    </test> <!-- Pass y user vacios -->
+  </suite> <!-- Pruebas Challenge Crowdar -->
+</testng-results>

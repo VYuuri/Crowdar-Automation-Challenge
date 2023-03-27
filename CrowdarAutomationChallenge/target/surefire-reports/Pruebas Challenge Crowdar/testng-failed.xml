@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Pruebas Challenge Crowdar]" guice-stage="DEVELOPMENT" verbose="0">
+  <parameter name="navegador" value="chrome"/>
+  <test thread-count="5" name="Pass y user vacios(failed)" verbose="0">
+    <classes>
+      <class name="tests.CPAB02PassYUserCorrectosFalloIntencional">
+        <methods>
+          <include name="iniciarDriver"/>
+          <include name="cerrarSuite"/>
+          <include name="CPAB02PassYUserCorrectosFalloIntencional"/>
+          <include name="iniciarSuite"/>
+          <include name="cerrarDriver"/>
+        </methods>
+      </class> <!-- tests.CPAB02PassYUserCorrectosFalloIntencional -->
+    </classes>
+  </test> <!-- Pass y user vacios(failed) -->
+</suite> <!-- Failed suite [Pruebas Challenge Crowdar] -->

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Pruebas Challenge Crowdar" verbose ="1" >
+    <parameter name="navegador" value="chrome"></parameter>
+    <test name="Bateria de Pruebas">
+        <classes>
+            <class name="tests.CPAB01PassYUserVacios"></class>
+            <class name="tests.CPAB02PassYUserCorrectos"></class>
+            <class name="tests.CPAB02PassYUserCorrectosFalloIntencional"></class>
+            <class name="tests.CPAB03UsuarioBloqueado"></class>
+            <class name="tests.CPAB04AgregarItemAlCarrito"></class>
+            <class name="tests.CPAB05SacarItemDelCarrito"></class>
+        </classes>
+    </test>
+</suite>
